@@ -1,0 +1,2 @@
+# Intelligent-Customer-Churn-Prediction-Feature-Engagement-Optimization
+This project is about building an automated pipeline that ingests raw neobank customer snapshot data, performs deterministic anomaly detection, resolves behavior corruption, conducts advanced algorithmic feature engineering, and loads the enriched dataset into a relational database using Python, Sql and Power BI for visualization.
