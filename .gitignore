@@ -1,0 +1,11 @@
+# Ignore temporary Power BI files
+*.tmp
+*.pbix.bak
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore environment/secrets if any
+.env
+venv/
